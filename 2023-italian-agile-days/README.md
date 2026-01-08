@@ -13,6 +13,7 @@ Questo talk esplora come riconoscere i sintomi di uno Scrum "malato" e propone e
 # (In english) Reigniting Scrum
 
 **Experiments to revive your team
+
 📍 Italian Agile Days 2023 | 🗓️ November 2023
 
 ## Abstract
