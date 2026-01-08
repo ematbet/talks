@@ -9,7 +9,7 @@ Engineering Manager @ [CCH Tagetik | Wolters Kluwer](https://www.wolterskluwer.c
 
 | Date | Event | Title | Links |
 |------|-------|-------|-------|
-| Nov 2023 | [Italian Agile Days 2023](https://www.agileday.it/) | Riaccendere Scrum | [📄 Slides](2023-italian-agile-days/) |
+| Nov 2023 | [Italian Agile Days 2023](https://www.agileday.it/2023/index.html) | Riaccendere Scrum | [📄 Slides](2023-italian-agile-days/) |
 
 ## Contact
 
